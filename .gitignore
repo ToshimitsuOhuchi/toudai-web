@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 環境変数・機密情報
+.env
+.env.local
+.env.production
+*.key
+*.pem
+
+# エディタ
+.vscode/
+.idea/
